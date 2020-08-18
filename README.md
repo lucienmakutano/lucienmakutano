@@ -16,31 +16,31 @@
 
 <br />
 
-### Programming Languages
+#### Programming Languages
 <img align="left" alt="python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img align="left" alt="java" width="40px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
+<img align="left" alt="java" width="30px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
 <img align="left" alt="golang" width="26px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
 
 <br />
 
-### Frameworks
+#### Frameworks
 <img align="left" alt="codeigniter" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" />
 <img align="left" alt="django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
 <img align="left" alt="flask" width="26px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" />
 
 <br />
 
-### Frontend Technologies
+#### Frontend Technologies
 <img align="left" alt="html" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />
 <img align="left" alt="css" width="26px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" />
 <img align="left" alt="jquery" width="70px" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" />
 
 <br />
 
-### Database
+#### Database
 <img align="left" alt="Mysql" width="70px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
  
- <br />
+<br />
 
 ### Latest blog
 <!-- BLOG-POST-LIST:START -->
