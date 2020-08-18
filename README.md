@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Lucien makutano
 
-## I am a computer science student with passion in system design and distruted computing
-
-Here are some ideas to get you started:
+### I am a computer science student with passion in system design and distruted computing
 
 - 🔭 I’m currently working on web technologies
 - 🌱 I’m currently learning golang
@@ -11,9 +9,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: us
 - ⚡ Fun fact: I love coding
 
-## 📫 How to reach me:
-[<img align="left" alt="tado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+### 📫 How to reach me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="jquery" width="26px" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" />]
 
 ### Database
-[<img align="left" alt="Mysql" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql.svgg" />]
+[<img align="left" alt="Mysql" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />]
  
  <br />
  <br />
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
 
 <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tadomikikuto-bit&count_private=true&show_icons=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tadomikikuto-bit)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tadomikikuto-bit)]
 
 [linkedin]: https://www.linkedin.com/in/makutano-lucien-374779178/
 [twitter]: https://twitter.com/tadomikikuto
