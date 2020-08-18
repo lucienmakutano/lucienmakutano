@@ -18,21 +18,27 @@
 
 ### Programming Languages
 <img align="left" alt="python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img align="left" alt="java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
+<img align="left" alt="java" width="40px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
 <img align="left" alt="golang" width="26px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
+
+<br />
 
 ### Frameworks
 <img align="left" alt="codeigniter" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" />
 <img align="left" alt="django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
 <img align="left" alt="flask" width="26px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" />
 
+<br />
+
 ### Frontend Technologies
 <img align="left" alt="html" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />
 <img align="left" alt="css" width="26px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" />
-<img align="left" alt="jquery" width="40px" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" />
+<img align="left" alt="jquery" width="70px" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" />
+
+<br />
 
 ### Database
-<img align="left" alt="Mysql" width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
+<img align="left" alt="Mysql" width="70px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
  
  <br />
 
@@ -42,7 +48,8 @@
 
 ---
 
-![My stats](https://github-readme-stats.vercel.app/api?username=tadomikikuto-bit&count_private=true&show_icons=true)
+<img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tadomikikuto-bit&count_private=true&show_icons=true" />
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tadomikikuto-bit)
 
 [linkedin]: https://www.linkedin.com/in/makutano-lucien-374779178/
