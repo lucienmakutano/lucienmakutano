@@ -1,16 +1,52 @@
-### Hi there 👋
+### Hi there 👋, I am Lucien makutano
 
-<!--
-**tadomikikuto-bit/tadomikikuto-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a computer science student with passion in system design and distruted computing
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web technologies
+- 🌱 I’m currently learning golang
+- 👯 I’m looking to collaborate on fun projects
+- 💬 Ask me about anything
+- 😄 Pronouns: us
+- ⚡ Fun fact: I love coding
+
+## 📫 How to reach me:
+[<img align="left" alt="tado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
+### Programming Languages
+[<img align="left" alt="python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />]
+[<img align="left" alt="java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />]
+[<img align="left" alt="golang" width="26px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />]
+
+### Frameworks
+[<img align="left" alt="codeigniter" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" />]
+[<img align="left" alt="django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />]
+[<img align="left" alt="flask" width="26px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" />]
+
+### Frontend Technologies
+[<img align="left" alt="html" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />]
+[<img align="left" alt="css" width="26px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" />]
+[<img align="left" alt="jquery" width="26px" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" />]
+
+### Database
+[<img align="left" alt="Mysql" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql.svgg" />]
+ 
+ <br />
+ <br />
+
+### Latest blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tadomikikuto-bit&count_private=true&show_icons=true" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tadomikikuto-bit)](https://github.com/anuraghazra/github-readme-stats)
+
+[linkedin]: https://www.linkedin.com/in/makutano-lucien-374779178/
+[twitter]: https://twitter.com/tadomikikuto
