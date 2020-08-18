@@ -38,9 +38,11 @@
 <br />
 
 #### Database
-<img align="left" alt="Mysql" width="70px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
+<img align="left" alt="Mysql" width="50px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
  
 <br />
+
+---
 
 ### Latest blog
 <!-- BLOG-POST-LIST:START -->
