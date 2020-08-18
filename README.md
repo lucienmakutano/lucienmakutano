@@ -2,7 +2,7 @@
 
 ### I am a computer science student with passion in system design and distruted computing
 
-- 🔭 I’m currently working on web technologies
+- 🔭 I’m currently working with web technologies
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on fun projects
 - 💬 Ask me about anything
