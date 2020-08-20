@@ -46,6 +46,7 @@
 
 ### Latest blog
 <!-- BLOG-POST-LIST:START -->
+- [let’s talk data types in go part 2](https://medium.com/@twisttado/lets-talk-data-types-in-go-part-2-9aa18b2c83f7?source=rss-39ba896f4d78------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
