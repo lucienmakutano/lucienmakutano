@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on fun projects
 - 💬 Ask me about anything
-- 😄 Pronouns: us
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding
 
 ### 📫 How to reach me:
