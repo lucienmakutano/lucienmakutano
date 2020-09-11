@@ -46,7 +46,7 @@
 
 ### Latest blog
 <!-- BLOG-POST-LIST:START -->
-- [variables and constants in Go](https://medium.com/swlh/variables-and-constants-in-go-42c5a3ca60c7?source=rss-39ba896f4d78------2)
+- [Variables and Constants in Go](https://medium.com/swlh/variables-and-constants-in-go-42c5a3ca60c7?source=rss-39ba896f4d78------2)
 - [let’s talk data types in go part 2](https://medium.com/@twisttado/lets-talk-data-types-in-go-part-2-9aa18b2c83f7?source=rss-39ba896f4d78------2)
 <!-- BLOG-POST-LIST:END -->
 
