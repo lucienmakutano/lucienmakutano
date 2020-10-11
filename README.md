@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Lucien makutano
 
-### I am a computer science student with passion in system design and distruted computing
+### I am a computer science student with passion for system design and distruted computing
 
 - 🔭 I’m currently working with web technologies
 - 🌱 I’m currently learning golang
