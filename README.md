@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on fun projects
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love coding
+- ⚡ Fun fact: I love playing football
 
 ### 📫 How to reach me:
 
