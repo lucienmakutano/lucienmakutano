@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working with web technologies
 - 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on fun projects
+- 👯 I’m looking forward to collaborating on fun projects
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing football
+- ⚡ Fun fact: I enjoy playing football
 
 ### 📫 How to reach me:
 
