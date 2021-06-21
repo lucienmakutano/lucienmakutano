@@ -53,9 +53,9 @@
 
 ---
 
-<img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tadomikikuto-bit&count_private=true&show_icons=true" />
+<img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=lucienmakutano&count_private=true&show_icons=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tadomikikuto-bit)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucienmakutano)
 
 [linkedin]: https://www.linkedin.com/in/makutano-lucien-374779178/
 [twitter]: https://twitter.com/tadomikikuto
