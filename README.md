@@ -30,9 +30,6 @@
 - [let’s talk data types in go part 2](https://medium.com/@lucienmakutano/lets-talk-data-types-in-go-part-2-9aa18b2c83f7?source=rss-39ba896f4d78------2)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucienmakutano)
 
 [linkedin]: https://www.linkedin.com/in/makutano-lucien/
 [twitter]: https://twitter.com/tadomikikuto
