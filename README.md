@@ -11,36 +11,15 @@
 
 ### 📫 How to reach me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/183624/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://www.svgrepo.com/show/197949/twitter.svg" />][twitter]
 
 <br />
 
 #### Programming Languages
 <img align="left" alt="python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img align="left" alt="java" width="30px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
+<img align="left" alt="rust" width="30px" src="https://cdn.worldvectorlogo.com/logos/rust.svg" />
 <img align="left" alt="golang" width="26px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
-
-<br />
-
-#### Frameworks
-<img align="left" alt="codeigniter" width="26px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" />
-<img align="left" alt="django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
-<img align="left" alt="flask" width="26px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" />
-
-<br />
-
-#### Frontend Technologies
-<img align="left" alt="html" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />
-<img align="left" alt="css" width="26px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" />
-<img align="left" alt="jquery" width="70px" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" />
-
-<br />
-
-#### Database
-<img align="left" alt="Mysql" width="50px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
- 
-<br />
 
 ---
 
@@ -53,9 +32,7 @@
 
 ---
 
-<img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=lucienmakutano&count_private=true&show_icons=true" />
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucienmakutano)
 
-[linkedin]: https://www.linkedin.com/in/makutano-lucien-374779178/
+[linkedin]: https://www.linkedin.com/in/makutano-lucien/
 [twitter]: https://twitter.com/tadomikikuto
