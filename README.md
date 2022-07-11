@@ -21,7 +21,7 @@
 <img align="left" alt="rust" width="30px" src="https://cdn.worldvectorlogo.com/logos/rust.svg" />
 <img align="left" alt="golang" width="26px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
 
----
+<br />
 
 ### Latest blog
 <!-- BLOG-POST-LIST:START -->
