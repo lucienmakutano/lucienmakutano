@@ -18,7 +18,7 @@
 
 #### Programming Languages
 <img align="left" alt="python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img align="left" alt="rust" width="30px" src="https://cdn.worldvectorlogo.com/logos/rust.svg" />
+<img align="left" alt="rust" width="30px" src="./file_type_rust_icon_130185.png" />
 <img align="left" alt="golang" width="26px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
 
 <br />
