@@ -18,6 +18,7 @@
 
 #### Programming Languages
 <img align="left" alt="python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+<img alt="Zig Logo" src="zig-logo-light.svg" width="30px">
 <img align="left" alt="rust" width="30px" src="./file_type_rust_icon_130185.png" />
 <img align="left" alt="Golang" width="26px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
 
